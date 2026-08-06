@@ -16,8 +16,8 @@
     🔬 关于我
   </p>
 
-  - 喜欢折腾代码，热衷于 **AI 4 Healthcare**
-  - 业余游戏玩家，偶尔写点前端看板来自动化日常任务
+  - 目前的研究兴趣聚焦于 **类脑智能（Brain-inspired Intelligence）** 与 **具身智能（Embodied AI）**
+  - 同时关注 **AI for Healthcare** 及其交叉研究与实际应用
   - 常用工具链：Python、Git、Obsidian
 
   <p align="left">
