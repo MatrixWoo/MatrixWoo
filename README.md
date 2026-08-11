@@ -3,12 +3,12 @@
 </div>
 
 <div align="left">
-  <h3 align="center">ZebraWoo(Matrix Woo)</h3>
+  <h3 align="center">Matrix Woo</h3>
 
   <p align="center">
     <samp>
-      <a href="https://ZebraWoo.github.io">Homepage</a> &middot;
-      <a href="mailto:woomatrix9@gmail.com">Email</a>
+      <a href="https://matrixwoo.github.io">Homepage</a> &middot;
+      <a href="mailto:matrixwu2019@163.com">Email</a>
     </samp>
   </p>
 
