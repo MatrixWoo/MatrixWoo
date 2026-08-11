@@ -16,8 +16,8 @@
     🔬 关于我
   </p>
 
-  - 目前的研究兴趣聚焦于 **类脑智能（Brain-inspired Intelligence）** 与 **具身智能（Embodied AI）**
-  - 同时关注 **AI for Healthcare** 及其交叉研究与实际应用
+  - 目前的研究兴趣聚焦于机械臂的分层控制与脊髓层搭建
+  - 同时关注xAI在医学领域应用
   - 常用工具链：Python、Git、Obsidian
 
   <p align="left">
