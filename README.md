@@ -16,8 +16,10 @@
     🔬 关于我
   </p>
 
-  - 目前的研究兴趣聚焦于机械臂的分层控制与脊髓层搭建
-  - 同时关注xAI在医学领域应用
+  - 目前的研究兴趣聚焦于 Machine Learning & Representation Learning;
+  - Medical Imaging Foundation Models;
+  - Data-Efficient Learning;
+  - Interpretable and Trustworthy AI
   - 常用工具链：Python、Git、Obsidian
 
   <p align="left">
